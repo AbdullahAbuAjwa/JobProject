@@ -73,7 +73,8 @@
                 <Font size="18.0"/>
             </font>
         </Label>
-        <Button fx:id="bt_show_profile" onAction="#showProfile" layoutX="660.0" layoutY="41.0" mnemonicParsing="false" text="Show profile">
+        <Button fx:id="bt_show_profile" onAction="#showProfile" layoutX="660.0" layoutY="41.0" mnemonicParsing="false"
+                text="Show profile">
             <font>
                 <Font size="15.0"/>
             </font>

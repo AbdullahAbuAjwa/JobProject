@@ -47,4 +47,11 @@
     </Button>
     <RadioButton fx:id="rb_std" layoutX="296.0" layoutY="332.0" mnemonicParsing="false" text="Student"/>
     <RadioButton fx:id="rb_comp" layoutX="412.0" layoutY="332.0" mnemonicParsing="false" text="Company"/>
+    <Button fx:id="get_password" layoutX="313.0" layoutY="302.0" mnemonicParsing="false" onAction="#get_password"
+            prefHeight="9.0" prefWidth="174.0" style="-fx-background-color: #95CB72;" text="Forget my password"
+            textFill="RED">
+        <font>
+            <Font size="14.0"/>
+        </font>
+    </Button>
 </AnchorPane>

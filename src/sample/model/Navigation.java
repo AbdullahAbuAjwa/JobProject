@@ -15,6 +15,7 @@ public class Navigation {
     public final String move_to_student_application = "/sample/view/student_application.fxml";
     public final String move_to_profile_company = "/sample/view/profile_company.fxml";
     public final String move_to_add_job = "/sample/view/add_job.fxml";
+    public final String move_to_check = "/sample/view/check.fxml";
 
 
     public void navTo(Parent rootPane, String path) {
